@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DBCON-Web.config Connection String" description="DBCON Connection String used in web.config by the application to access the database." defaultValue="Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;Persist Security Info=True;User ID=ankur;Password=Ankur@4636" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Sample\\Services\\Hangout\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DBCON']/@connectionString" />
+  </parameter>
+</parameters>

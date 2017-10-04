@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Hangouts" Class="HangoutsDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=datasource;Initial Catalog=Hangouts;User ID=hangoutsadmin" SettingsObjectName="Hangouts.DataAccess.Properties.Settings" SettingsPropertyName="HangoutsConnectionString5" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.UpdateVerificationEmail" Method="UpdateVerificationEmail">
+    <Parameter Name="ActivationCode" Parameter="activationCode" Type="System.String" DbType="NVarChar(MAX)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.UpdateDeviceToken" Method="UpdateDeviceToken">
+    <Parameter Name="CustomerId" Parameter="customerId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="deviceToken" Type="System.String" DbType="VarChar(MAX)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.UpdateDeviceToken1" Method="UpdateDeviceToken1">
+    <Parameter Name="CustomerId" Parameter="customerId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="deviceToken" Type="System.String" DbType="VarChar(MAX)" />
+    <Parameter Name="deviceType" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.GetVerificationStatus" Method="GetVerificationStatus">
+    <Parameter Name="Custid" Parameter="custid" Type="System.Int32" DbType="Int" />
+    <ElementType Name="GetVerificationStatusResult">
+      <Column Name="Verified" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.AuthenticateUsers" Method="AuthenticateUsers">
+    <Parameter Name="CardNumber" Parameter="cardNumber" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="EmailId" Parameter="emailId" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="DeviceId" Parameter="deviceId" Type="System.String" DbType="VarChar(MAX)" />
+    <ElementType Name="AuthenticateUsersResult">
+      <Column Name="CustomerID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Phone2" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Address1" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Address2" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="State" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CustomerType" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="CustomerAdded" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="CardNumber" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Notes1" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsUpdated" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="LastUpdatedOn" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PrefferredStore" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IsMailSent" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.InsertUpdateLike" Method="InsertUpdateLike">
+    <Parameter Name="UserID" Parameter="userID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SKU" Parameter="sKU" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Liked" Parameter="liked" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="BarCode" Parameter="barCode" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.DeleteReview" Method="DeleteReview">
+    <Parameter Name="BarCode" Parameter="barCode" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="ReviewUserId" Parameter="reviewUserId" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.InsertUpdateReview" Method="InsertUpdateReview">
+    <Parameter Name="ReviewID" Parameter="reviewID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="PlantFinal" Parameter="plantFinal" Type="System.String" DbType="VarChar(10)" />
+    <Parameter Name="ReviewDate" Parameter="reviewDate" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="CardID" Parameter="cardID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Cost" Parameter="cost" Type="System.Decimal" DbType="Decimal(18,4)" />
+    <Parameter Name="RatingStars" Parameter="ratingStars" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SKU" Parameter="sKU" Type="System.Int32" DbType="Int" />
+    <Parameter Name="CommentsTitle" Parameter="commentsTitle" Type="System.String" DbType="NVarChar(500)" />
+    <Parameter Name="RatingText" Parameter="ratingText" Type="System.String" DbType="NVarChar(500)" />
+    <Parameter Name="ReviewUserId" Parameter="reviewUserId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Name" Parameter="name" Type="System.String" DbType="VarChar(1)" />
+    <Parameter Name="IsActive" Parameter="isActive" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="BarCode" Parameter="barCode" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.AuthorizeUser" Method="AuthorizeUser">
+    <Parameter Name="CardNumber" Parameter="cardNumber" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="DeviceId" Parameter="deviceId" Type="System.String" DbType="VarChar(MAX)" />
+    <ElementType Name="AuthorizeUserResult">
+      <Column Name="" Member="Column1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.InsertUpdateGuests" Method="InsertUpdateGuests">
+    <Parameter Name="devicetoken" Type="System.String" DbType="VarChar(MAX)" />
+    <Parameter Name="devicetype" Type="System.Int32" DbType="Int" />
+    <ElementType Name="InsertUpdateGuestsResult">
+      <Column Name="" Member="Column1" Type="System.Decimal" DbType="Decimal(38,0)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.getNumberOfTastings" Method="getNumberOfTastings" IsComposable="true">
+    <Parameter Name="Customerid" Parameter="customerid" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.UpdateCustomers" Method="UpdateCustomers">
+    <Parameter Name="FirstName" Parameter="firstName" Type="System.String" DbType="VarChar(MAX)" />
+    <Parameter Name="LastName" Parameter="lastName" Type="System.String" DbType="VarChar(MAX)" />
+    <Parameter Name="PhoneNumber" Parameter="phoneNumber" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="Phone2" Parameter="phone2" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="Address1" Parameter="address1" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="Address2" Parameter="address2" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="City" Parameter="city" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="State" Parameter="state" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="CustomerType" Parameter="customerType" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="CustomerID" Parameter="customerID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Zip" Parameter="zip" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="PreferredStore" Parameter="preferredStore" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.RetrieveCustomerDetails" Method="RetrieveCustomerDetails">
+    <Parameter Name="CardNumber" Parameter="cardNumber" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="RetrieveCustomerDetailsResult">
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.UpdateEmailAddress" Method="UpdateEmailAddress">
+    <Parameter Name="email" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="CustomerId" Parameter="customerId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="UpdateEmailAddressResult">
+      <Column Name="CustomerID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Phone2" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Address1" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Address2" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="State" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CustomerType" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="CustomerAdded" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="CardNumber" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Notes1" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsUpdated" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="LastUpdatedOn" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="zip" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.RetrieveProfileDetails" Method="RetrieveProfileDetails">
+    <Parameter Name="CustomerID" Parameter="customerID" Type="System.Int32" DbType="Int" />
+    <ElementType Name="RetrieveProfileDetailsResult">
+      <Column Name="CustomerID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Phone2" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Address1" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Address2" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="State" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CustomerType" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="CustomerAdded" Type="System.String" DbType="VarChar(128)" CanBeNull="true" />
+      <Column Name="CardNumber" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Notes1" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsUpdated" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="LastUpdatedOn" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="zip" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PrefferredStore" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ExpireDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.RetrieveAvailableWinesAlt" Method="RetrieveAvailableWinesAlt">
+    <Parameter Name="PlantFinal" Parameter="plantFinal" Type="System.Int32" DbType="Int" />
+    <Parameter Name="userid" Type="System.Int32" DbType="Int" />
+    <ElementType Name="RetrieveAvailableWinesAltResult">
+      <Column Name="SKU" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(35) NOT NULL" CanBeNull="false" />
+      <Column Name="Vintage" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Region" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Country" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="SalePrice" Type="System.Decimal" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+      <Column Name="RegPrice" Type="System.Decimal" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+      <Column Name="AverageRating" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="Liked" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="SmallImageURL" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="WineId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BarCode" Type="System.String" DbType="VarChar(13) NOT NULL" CanBeNull="false" />
+      <Column Name="DispenserCode" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="PositionTap" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="AvailableVolume" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="InsertionTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.RetrieveFavouriteWinesByUserIdAlt" Method="RetrieveFavouriteWinesByUserIdAlt">
+    <Parameter Name="userId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="RetrieveFavouriteWinesByUserIdAltResult">
+      <Column Name="SKU" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(35) NOT NULL" CanBeNull="false" />
+      <Column Name="Vintage" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="SalePrice" Type="System.Decimal" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+      <Column Name="RegPrice" Type="System.Decimal" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+      <Column Name="SmallImageURL" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Liked" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PlantFinal" Type="System.String" DbType="VarChar(4) NOT NULL" CanBeNull="false" />
+      <Column Name="WineId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BarCode" Type="System.String" DbType="VarChar(13) NOT NULL" CanBeNull="false" />
+      <Column Name="AverageRating" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.RetrieveReviewsByUserIdAlt" Method="RetrieveReviewsByUserIdAlt">
+    <Parameter Name="UserID" Parameter="userID" Type="System.Int32" DbType="Int" />
+    <ElementType Name="RetrieveReviewsByUserIdAltResult">
+      <Column Name="RatingStars" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="RatingText" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="ReviewUserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PlantFinal" Type="System.String" DbType="VarChar(4) NOT NULL" CanBeNull="false" />
+      <Column Name="SKU" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(35) NOT NULL" CanBeNull="false" />
+      <Column Name="Vintage" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Region" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Country" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="BarCode" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="SmallImageURL" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Liked" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.RetrieveReviewsByWineIdAlt" Method="RetrieveReviewsByWineIdAlt">
+    <Parameter Name="BarCode" Parameter="barCode" Type="System.String" DbType="VarChar(50)" />
+    <ElementType Name="RetrieveReviewsByWineIdAltResult">
+      <Column Name="RatingStars" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="RatingText" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="PlantFinal" Type="System.String" DbType="VarChar(4) NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="ReviewUserId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SKU" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Vintage" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Region" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Country" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="ReviewId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BarCode" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.RetrieveWineDetailsAlt" Method="RetrieveWineDetailsAlt">
+    <Parameter Name="BarCode" Parameter="barCode" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="StoreId" Parameter="storeId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="RetrieveWineDetailsAltResult">
+      <Column Name="SKU" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(35) NOT NULL" CanBeNull="false" />
+      <Column Name="Vintage" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Country" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Region" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="[Sub-Region]" Member="Sub_Region" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="GrapeVerietal" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="SalePrice" Type="System.Decimal" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+      <Column Name="RegPrice" Type="System.Decimal" DbType="Decimal(18,4) NOT NULL" CanBeNull="false" />
+      <Column Name="AverageRating" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="UsersRating" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="Producer" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="BottleSize" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LargeImageUrl" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Liked" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="WineId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BarCode" Type="System.String" DbType="VarChar(13) NOT NULL" CanBeNull="false" />
+      <Column Name="AvailableVolume" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="InsertionTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.RetrieveMyTastings" Method="RetrieveMyTastings">
+    <Parameter Name="custId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="RetrieveMyTastingsResult">
+      <Column Name="Name" Type="System.String" DbType="NVarChar(35)" CanBeNull="true" />
+      <Column Name="Vintage" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="SKU" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PlantFinal" Type="System.String" DbType="VarChar(4)" CanBeNull="true" />
+      <Column Name="SalePrice" Type="System.Decimal" DbType="Decimal(18,4)" CanBeNull="true" />
+      <Column Name="RegPrice" Type="System.Decimal" DbType="Decimal(18,4)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="TastingDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="BarCode" Type="System.String" DbType="VarChar(13)" CanBeNull="true" />
+      <Column Name="Liked" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="SmallImageURL" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.InsertActivationCode" Method="InsertActivationCode">
+    <Parameter Name="ActivationCode" Parameter="activationCode" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="NVarChar(200)" />
+    <Parameter Name="CustomerId" Parameter="customerId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="InsertActivationCodeResult">
+      <Column Name="ActivationCode" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

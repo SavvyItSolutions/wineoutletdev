@@ -1,0 +1,78 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Hangouts.DataAccess.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HangoutsConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;Persist Security Info=True;User ID=ankur;Password=Ankur@4636&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;Persist Security Info=True;User ID=ankur;Password=Ankur@4636</Value>
+    </Setting>
+    <Setting Name="Hangouts_devConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=108.58.151.10,1433;Initial Catalog=Hangouts_dev;Persist Security Info=True;User ID=ankur;Password=Ankur@3646&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=108.58.151.10,1433;Initial Catalog=Hangouts_dev;Persist Security Info=True;User ID=ankur;Password=Ankur@3646</Value>
+    </Setting>
+    <Setting Name="HangoutsConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;Persist Security Info=True;User ID=ankur;Password=Ankur@3646&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;Persist Security Info=True;User ID=ankur;Password=Ankur@3646</Value>
+    </Setting>
+    <Setting Name="HangoutsConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;Persist Security Info=True;User ID=hangoutsadmin;Password=Wineoutlet@99666&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;Persist Security Info=True;User ID=hangoutsadmin;Password=Wineoutlet@99666</Value>
+    </Setting>
+    <Setting Name="HangoutsConnectionString3" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;Persist Security Info=True;User ID=ankur;Password=ankur@3646&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;Persist Security Info=True;User ID=ankur;Password=ankur@3646</Value>
+    </Setting>
+    <Setting Name="HangoutsConnectionString4" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=108.58.151.10;Initial Catalog=Hangouts;Persist Security Info=True;User ID=hangoutsadmin;Password=Wineoutlet@99666&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=108.58.151.10;Initial Catalog=Hangouts;Persist Security Info=True;User ID=hangoutsadmin;Password=Wineoutlet@99666</Value>
+    </Setting>
+    <Setting Name="HangoutsConnectionString5" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;User ID=hangoutsadmin;Password=Wineoutlet@99666&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=108.58.151.10,1433;Initial Catalog=Hangouts;User ID=hangoutsadmin;Password=Wineoutlet@99666</Value>
+    </Setting>
+    <Setting Name="HangoutsConnectionString6" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=108.58.151.10;Initial Catalog=Hangouts;User ID=hangoutsadmin;Password=Wineoutlet@99666&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=108.58.151.10;Initial Catalog=Hangouts;User ID=hangoutsadmin;Password=Wineoutlet@99666</Value>
+    </Setting>
+    <Setting Name="HangoutsConnectionString7" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=108.58.151.10;Initial Catalog=Hangouts;Persist Security Info=True;User ID=hangoutsadmin&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=108.58.151.10;Initial Catalog=Hangouts;Persist Security Info=True;User ID=hangoutsadmin</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

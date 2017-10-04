@@ -1,0 +1,167 @@
+﻿﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Verification Page</title>
+    <script src="Jquery/jquery-3.2.1.min.js"></script>    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //var byName = $.getUrlVar('ActivationCode');
+            var first = getUrlVars()["ActivationCode"];
+                $.ajax({
+                    type: 'GET',
+                    url: "api/item/UpdateVerifiedEmail/" + first,
+                    dataType: 'json',
+                    success: function (data) {
+                        document.getElementById('lblSuccess').innerHTML = data;
+                    }
+                });
+            function getUrlVars() {
+                var vars = [], hash;
+                var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+                for (var i = 0; i < hashes.length; i++) {
+                    hash = hashes[i].split('=');
+                    vars.push(hash[0]);
+                    vars[hash[0]] = hash[1];
+                }
+                return vars;
+            }
+        });
+    </script>
+    <title>Email Verification Page</title>
+
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+    <link rel="apple-touch-icon" sizes="57x57" href="images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="manifest" href="images/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="images/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/flexslider.css">
+ 
+</head>
+<body class="image-background">
+
+
+      
+
+        <header class="site-header">
+            <div class="site-logo onstart animated" data-animation="fadeInDown" data-animation-delay="1200">
+
+            </div>
+        </header>
+
+        <nav id="navigation" class="navigation site-nav">
+            <div class="nav-container">
+
+                <div class="outer outer-left opacity-10">
+                    <div class="inner inner-left"></div>
+                </div>
+
+                <div class="nav-bg opacity-10"></div>
+
+                <div class="outer outer-right opacity-10">
+                    <div class="inner inner-right"></div>
+                </div>
+
+            </div>
+        </nav>
+
+        <section class="home section fullscreen site-main">
+            <div class="section-container">
+                <div class="table-container">
+                    <div class="table-content">
+
+                        <div class="bt-carousel">
+
+
+                            <div class="slide-item active" data-slide-id="1">
+
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-10 col-md-offset-1">
+
+                                            <div class="slide-content">
+                                                <div id="" class="onstart animated" data-animation="fadeInUp"
+                                                     data-animation-out="fadeOutDown" data-animation-delay="600"
+                                                     data-animation-out-delay="1000">
+                                                    <img src="images/logowine.png" class="img-responsive">
+                                                </div>
+                                                <h3 class="color-white onstart animated no-top-margin" data-animation="fadeInUp" data-animation-out="fadeOutDown" data-animation-delay="800" data-animation-out-delay="800">Thank you!<br>Your Email is succesfully verified.<br /><br /><br />Please revisit the app and click on login to start viewing your tastings and provide valuable suggestions.<br /></h3>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer class="site-footer onstart animated" data-animation="fadeInUp" data-animation-delay="800">
+                <div class="copyright">
+                    © 2017 <a href="https://www.wineoutlet.com/">Wine Outlet.</a> All Rights Reserved
+                </div>
+            </footer>
+        </section>
+        <nav class="socials-icons">
+            <ul>
+                <li class="onstart animated" data-animation="fadeInRightBig" data-animation-delay="800"><a href="https://www.facebook.com/WineOutletNJ/" target="_blank"><i class="ion-social-facebook"></i></a></li>
+                <li class="onstart animated" data-animation="fadeInRightBig" data-animation-delay="950"><a href="https://twitter.com/WineOutletNJ" target="_blank"><i class="ion-social-twitter"></i></a></li>
+                <li class="onstart animated" data-animation="fadeInRightBig" data-animation-delay="1100"><a href="https://in.pinterest.com/wineoutlet/"><i class="ion-social-pinterest" target="_blank"></i></a></li>
+                <li class="onstart animated" data-animation="fadeInRightBig" data-animation-delay="1400"><a href="https://play.google.com/store/apps/details?id=com.savvyitsol.winehangoutz"><i class="fa fa-play" aria-hidden="true" target="_blank"></i></a></li>
+                <li class="onstart animated" data-animation="fadeInRightBig" data-animation-delay="1550"><a href="https://itunes.apple.com/us/app/wine-hangouts/id1206442007?ls=1&mt=8"><i class="fa fa-apple" aria-hidden="true" target="_blank"></i></a></li>
+            </ul>
+        </nav>
+        <div class="overlay-frame opacity-10"></div>
+        <div class="page-overlay overlay">
+            <div class="gradient-overlay background-blue-dark opacity-20"></div>
+        </div>
+
+    <script type="text/javascript" src="js/modernizr.js"></script>
+    <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.js"></script>
+    <script type="text/javascript" src="js/jquery.backstretch.min.js"></script>
+    <script type="text/javascript" src="js/jquery.waitforimages.js"></script>
+    <script type="text/javascript" src="js/retina-1.1.0.min.js"></script>
+    <script type="text/javascript" src="js/jquery.countdown.js"></script>
+    <script type="text/javascript" src="js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="js/jquery.mb.YTPlayer.js"></script>
+    <script type="text/javascript" src="js/jquery.parallaxify.min.js"></script>
+    <script type="text/javascript" src="js/jquery.particleground.min.js"></script>
+    <script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
+    <script type="text/javascript" src="js/jquery.ajaxchimp.js"></script>
+    <script type="text/javascript" src="js/jquery.placeholder.js"></script>
+    <script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+
+    <script type="text/javascript" src="js/main.js"></script>
+        
+
+  </body>
+</html>

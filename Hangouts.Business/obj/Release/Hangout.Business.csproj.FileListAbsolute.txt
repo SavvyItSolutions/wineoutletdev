@@ -1,0 +1,14 @@
+E:\Sample\WineHangoutz\Services\Hangouts.Business\bin\Release\Hangouts.Business.dll
+E:\Sample\WineHangoutz\Services\Hangouts.Business\bin\Release\Hangouts.Business.pdb
+E:\Sample\WineHangoutz\Services\Hangouts.Business\obj\Release\Hangout.Business.csprojResolveAssemblyReference.cache
+E:\Sample\WineHangoutz\Services\Hangouts.Business\obj\Release\Hangouts.Business.dll
+E:\Sample\WineHangoutz\Services\Hangouts.Business\obj\Release\Hangouts.Business.pdb
+E:\Sample\Services\Hangouts.Business\bin\Release\Hangouts.Business.dll
+E:\Sample\Services\Hangouts.Business\bin\Release\Hangouts.Business.pdb
+E:\Sample\Services\Hangouts.Business\bin\Release\Hangouts.DataAccess.dll
+E:\Sample\Services\Hangouts.Business\bin\Release\Hangouts.Models.dll
+E:\Sample\Services\Hangouts.Business\bin\Release\Hangouts.DataAccess.pdb
+E:\Sample\Services\Hangouts.Business\bin\Release\Hangouts.Models.pdb
+E:\Sample\Services\Hangouts.Business\obj\Release\Hangout.Business.csprojResolveAssemblyReference.cache
+E:\Sample\Services\Hangouts.Business\obj\Release\Hangouts.Business.dll
+E:\Sample\Services\Hangouts.Business\obj\Release\Hangouts.Business.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangout.API", "Hangout\Hangout.API.csproj", "{3565A0E2-1E3F-4608-9E2E-3563643CAA23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangout.Models", "Hangouts.Models\Hangout.Models.csproj", "{BCC0D851-7F5D-4CDA-B305-AB3C497360DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangout.DataAccess", "Hangouts.DataAccess\Hangout.DataAccess.csproj", "{9DB35B11-6740-4288-9877-6BF94CFA7B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangout.Business", "Hangouts.Business\Hangout.Business.csproj", "{240E193C-6A3A-4914-AEF1-0D390E26C0D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3565A0E2-1E3F-4608-9E2E-3563643CAA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3565A0E2-1E3F-4608-9E2E-3563643CAA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3565A0E2-1E3F-4608-9E2E-3563643CAA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3565A0E2-1E3F-4608-9E2E-3563643CAA23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC0D851-7F5D-4CDA-B305-AB3C497360DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC0D851-7F5D-4CDA-B305-AB3C497360DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC0D851-7F5D-4CDA-B305-AB3C497360DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC0D851-7F5D-4CDA-B305-AB3C497360DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB35B11-6740-4288-9877-6BF94CFA7B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB35B11-6740-4288-9877-6BF94CFA7B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB35B11-6740-4288-9877-6BF94CFA7B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB35B11-6740-4288-9877-6BF94CFA7B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240E193C-6A3A-4914-AEF1-0D390E26C0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240E193C-6A3A-4914-AEF1-0D390E26C0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240E193C-6A3A-4914-AEF1-0D390E26C0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240E193C-6A3A-4914-AEF1-0D390E26C0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

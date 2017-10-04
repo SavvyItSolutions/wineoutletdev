@@ -1,0 +1,885 @@
+C:\Workspace\Hangout\Hangout\obj\Debug\Hangout.API.csprojResolveAssemblyReference.cache
+C:\Workspace\Hangout\Hangout\bin\ApplicationInsights.config
+C:\Workspace\Hangout\Hangout\bin\roslyn\csc.exe
+C:\Workspace\Hangout\Hangout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Workspace\Hangout\Hangout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\Hangout\Hangout\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Workspace\Hangout\Hangout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\Hangout\Hangout\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Workspace\Hangout\Hangout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Workspace\Hangout\Hangout\bin\roslyn\System.Collections.Immutable.dll
+C:\Workspace\Hangout\Hangout\bin\roslyn\System.Reflection.Metadata.dll
+C:\Workspace\Hangout\Hangout\bin\roslyn\vbc.exe
+C:\Workspace\Hangout\Hangout\bin\roslyn\VBCSCompiler.exe
+C:\Workspace\Hangout\Hangout\bin\roslyn\VBCSCompiler.exe.config
+C:\Workspace\Hangout\Hangout\bin\Hangout.dll.config
+C:\Workspace\Hangout\Hangout\bin\Hangout.dll
+C:\Workspace\Hangout\Hangout\bin\Hangout.pdb
+C:\Workspace\Hangout\Hangout\bin\Antlr3.Runtime.dll
+C:\Workspace\Hangout\Hangout\bin\EntityFramework.dll
+C:\Workspace\Hangout\Hangout\bin\EntityFramework.SqlServer.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.DependencyCollector.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.Web.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.WindowsServer.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.ApplicationInsights.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.Google.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Web.Infrastructure.dll
+C:\Workspace\Hangout\Hangout\bin\Newtonsoft.Json.dll
+C:\Workspace\Hangout\Hangout\bin\Owin.dll
+C:\Workspace\Hangout\Hangout\bin\System.Net.Http.Formatting.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.Helpers.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.Http.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.Http.Owin.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.Http.WebHost.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.Mvc.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.Optimization.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.Razor.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.WebPages.Deployment.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.WebPages.dll
+C:\Workspace\Hangout\Hangout\bin\System.Web.WebPages.Razor.dll
+C:\Workspace\Hangout\Hangout\bin\WebGrease.dll
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.DependencyCollector.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.Web.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AI.WindowsServer.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.ApplicationInsights.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Workspace\Hangout\Hangout\bin\Newtonsoft.Json.xml
+C:\Workspace\Hangout\Hangout\bin\System.Net.Http.Formatting.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.Helpers.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.Http.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.Http.WebHost.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.Mvc.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.Optimization.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.Razor.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.WebPages.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.WebPages.Deployment.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.WebPages.Razor.xml
+C:\Workspace\Hangout\Hangout\bin\Antlr3.Runtime.pdb
+C:\Workspace\Hangout\Hangout\bin\EntityFramework.xml
+C:\Workspace\Hangout\Hangout\bin\EntityFramework.SqlServer.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.Google.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Workspace\Hangout\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Workspace\Hangout\Hangout\bin\System.Web.Http.Owin.xml
+C:\Workspace\Hangout\Hangout\obj\Debug\Hangout.dll
+C:\Workspace\Hangout\Hangout\obj\Debug\Hangout.pdb
+C:\Workspace\Hangout\Hangout\bin\Hangouts.Models.dll
+C:\Workspace\Hangout\Hangout\bin\Hangouts.Models.pdb
+C:\Workspace\Hangout\Hangout\bin\Hangouts.Business.dll
+C:\Workspace\Hangout\Hangout\bin\Hangouts.Business.pdb
+E:\Sample\WineHangoutz\Services\Hangout\bin\ApplicationInsights.config
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\csc.exe
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\System.Collections.Immutable.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\vbc.exe
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\VBCSCompiler.exe
+E:\Sample\WineHangoutz\Services\Hangout\bin\roslyn\VBCSCompiler.exe.config
+E:\Sample\WineHangoutz\Services\Hangout\bin\Hangout.dll.config
+E:\Sample\WineHangoutz\Services\Hangout\bin\Hangout.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Hangout.pdb
+E:\Sample\WineHangoutz\Services\Hangout\bin\Antlr3.Runtime.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\EntityFramework.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\EntityFramework.SqlServer.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Hangouts.Business.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Hangouts.Models.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.DependencyCollector.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.Web.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.WindowsServer.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.ApplicationInsights.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.Google.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Web.Infrastructure.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Newtonsoft.Json.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Owin.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Net.Http.Formatting.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Helpers.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Http.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Http.Owin.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Http.WebHost.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Mvc.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Optimization.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Razor.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.WebPages.Deployment.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.WebPages.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.WebPages.Razor.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\WebGrease.dll
+E:\Sample\WineHangoutz\Services\Hangout\bin\Hangouts.Business.pdb
+E:\Sample\WineHangoutz\Services\Hangout\bin\Hangouts.Models.pdb
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.DependencyCollector.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.Web.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AI.WindowsServer.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.ApplicationInsights.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Newtonsoft.Json.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Net.Http.Formatting.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Helpers.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Http.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Http.WebHost.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Mvc.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Optimization.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Razor.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.WebPages.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.WebPages.Deployment.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.WebPages.Razor.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Antlr3.Runtime.pdb
+E:\Sample\WineHangoutz\Services\Hangout\bin\EntityFramework.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\EntityFramework.SqlServer.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.Google.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Sample\WineHangoutz\Services\Hangout\bin\System.Web.Http.Owin.xml
+E:\Sample\WineHangoutz\Services\Hangout\obj\Debug\Hangout.API.csprojResolveAssemblyReference.cache
+E:\Sample\WineHangoutz\Services\Hangout\obj\Debug\Hangout.dll
+E:\Sample\WineHangoutz\Services\Hangout\obj\Debug\Hangout.pdb
+F:\SAVVY\Services\Hangout\bin\ApplicationInsights.config
+F:\SAVVY\Services\Hangout\bin\roslyn\csc.exe
+F:\SAVVY\Services\Hangout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SAVVY\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SAVVY\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SAVVY\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SAVVY\Services\Hangout\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SAVVY\Services\Hangout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SAVVY\Services\Hangout\bin\roslyn\System.Collections.Immutable.dll
+F:\SAVVY\Services\Hangout\bin\roslyn\System.Reflection.Metadata.dll
+F:\SAVVY\Services\Hangout\bin\roslyn\vbc.exe
+F:\SAVVY\Services\Hangout\bin\roslyn\VBCSCompiler.exe
+F:\SAVVY\Services\Hangout\bin\roslyn\VBCSCompiler.exe.config
+F:\SAVVY\Services\Hangout\bin\Hangout.dll.config
+F:\SAVVY\Services\Hangout\bin\Hangout.dll
+F:\SAVVY\Services\Hangout\bin\Hangout.pdb
+F:\SAVVY\Services\Hangout\bin\Antlr3.Runtime.dll
+F:\SAVVY\Services\Hangout\bin\EntityFramework.dll
+F:\SAVVY\Services\Hangout\bin\EntityFramework.SqlServer.dll
+F:\SAVVY\Services\Hangout\bin\Hangouts.Business.dll
+F:\SAVVY\Services\Hangout\bin\Hangouts.Models.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.DependencyCollector.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.Web.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.WindowsServer.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.ApplicationInsights.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.Google.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SAVVY\Services\Hangout\bin\Microsoft.Web.Infrastructure.dll
+F:\SAVVY\Services\Hangout\bin\Newtonsoft.Json.dll
+F:\SAVVY\Services\Hangout\bin\Owin.dll
+F:\SAVVY\Services\Hangout\bin\System.Net.Http.Formatting.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.Helpers.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.Http.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.Http.Owin.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.Http.WebHost.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.Mvc.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.Optimization.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.Razor.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.WebPages.Deployment.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.WebPages.dll
+F:\SAVVY\Services\Hangout\bin\System.Web.WebPages.Razor.dll
+F:\SAVVY\Services\Hangout\bin\WebGrease.dll
+F:\SAVVY\Services\Hangout\bin\Hangouts.Business.pdb
+F:\SAVVY\Services\Hangout\bin\Hangouts.Models.pdb
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.DependencyCollector.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.Web.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.AI.WindowsServer.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.ApplicationInsights.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SAVVY\Services\Hangout\bin\Newtonsoft.Json.xml
+F:\SAVVY\Services\Hangout\bin\System.Net.Http.Formatting.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.Helpers.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.Http.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.Http.WebHost.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.Mvc.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.Optimization.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.Razor.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.WebPages.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.WebPages.Deployment.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.WebPages.Razor.xml
+F:\SAVVY\Services\Hangout\bin\Antlr3.Runtime.pdb
+F:\SAVVY\Services\Hangout\bin\EntityFramework.xml
+F:\SAVVY\Services\Hangout\bin\EntityFramework.SqlServer.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.Google.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SAVVY\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SAVVY\Services\Hangout\bin\System.Web.Http.Owin.xml
+F:\SAVVY\Services\Hangout\obj\Debug\Hangout.API.csprojResolveAssemblyReference.cache
+F:\SAVVY\Services\Hangout\obj\Debug\Hangout.dll
+F:\SAVVY\Services\Hangout\obj\Debug\Hangout.pdb
+F:\SAVVY\Services\Hangout\bin\Hangouts.DataAccess.dll
+F:\SAVVY\Services\Hangout\bin\Hangouts.DataAccess.pdb
+E:\Sample\Services\Hangout\bin\ApplicationInsights.config
+E:\Sample\Services\Hangout\bin\roslyn\csc.exe
+E:\Sample\Services\Hangout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sample\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sample\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sample\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sample\Services\Hangout\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sample\Services\Hangout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sample\Services\Hangout\bin\roslyn\System.Collections.Immutable.dll
+E:\Sample\Services\Hangout\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sample\Services\Hangout\bin\roslyn\vbc.exe
+E:\Sample\Services\Hangout\bin\roslyn\VBCSCompiler.exe
+E:\Sample\Services\Hangout\bin\roslyn\VBCSCompiler.exe.config
+E:\Sample\Services\Hangout\bin\Hangout.dll.config
+E:\Sample\Services\Hangout\bin\Hangout.dll
+E:\Sample\Services\Hangout\bin\Hangout.pdb
+E:\Sample\Services\Hangout\bin\Antlr3.Runtime.dll
+E:\Sample\Services\Hangout\bin\EntityFramework.dll
+E:\Sample\Services\Hangout\bin\EntityFramework.SqlServer.dll
+E:\Sample\Services\Hangout\bin\Hangouts.Business.dll
+E:\Sample\Services\Hangout\bin\Hangouts.Models.dll
+E:\Sample\Services\Hangout\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Sample\Services\Hangout\bin\Microsoft.AI.DependencyCollector.dll
+E:\Sample\Services\Hangout\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Sample\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Sample\Services\Hangout\bin\Microsoft.AI.Web.dll
+E:\Sample\Services\Hangout\bin\Microsoft.AI.WindowsServer.dll
+E:\Sample\Services\Hangout\bin\Microsoft.ApplicationInsights.dll
+E:\Sample\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Sample\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Sample\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Sample\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.Google.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Sample\Services\Hangout\bin\Microsoft.Web.Infrastructure.dll
+E:\Sample\Services\Hangout\bin\Newtonsoft.Json.dll
+E:\Sample\Services\Hangout\bin\Owin.dll
+E:\Sample\Services\Hangout\bin\System.Net.Http.Formatting.dll
+E:\Sample\Services\Hangout\bin\System.Web.Helpers.dll
+E:\Sample\Services\Hangout\bin\System.Web.Http.dll
+E:\Sample\Services\Hangout\bin\System.Web.Http.Owin.dll
+E:\Sample\Services\Hangout\bin\System.Web.Http.WebHost.dll
+E:\Sample\Services\Hangout\bin\System.Web.Mvc.dll
+E:\Sample\Services\Hangout\bin\System.Web.Optimization.dll
+E:\Sample\Services\Hangout\bin\System.Web.Razor.dll
+E:\Sample\Services\Hangout\bin\System.Web.WebPages.Deployment.dll
+E:\Sample\Services\Hangout\bin\System.Web.WebPages.dll
+E:\Sample\Services\Hangout\bin\System.Web.WebPages.Razor.dll
+E:\Sample\Services\Hangout\bin\WebGrease.dll
+E:\Sample\Services\Hangout\bin\Hangouts.DataAccess.dll
+E:\Sample\Services\Hangout\bin\Hangouts.Business.pdb
+E:\Sample\Services\Hangout\bin\Hangouts.Models.pdb
+E:\Sample\Services\Hangout\bin\Microsoft.AI.DependencyCollector.xml
+E:\Sample\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Sample\Services\Hangout\bin\Microsoft.AI.Web.xml
+E:\Sample\Services\Hangout\bin\Microsoft.AI.WindowsServer.xml
+E:\Sample\Services\Hangout\bin\Microsoft.ApplicationInsights.xml
+E:\Sample\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sample\Services\Hangout\bin\Newtonsoft.Json.xml
+E:\Sample\Services\Hangout\bin\System.Net.Http.Formatting.xml
+E:\Sample\Services\Hangout\bin\System.Web.Helpers.xml
+E:\Sample\Services\Hangout\bin\System.Web.Http.xml
+E:\Sample\Services\Hangout\bin\System.Web.Http.WebHost.xml
+E:\Sample\Services\Hangout\bin\System.Web.Mvc.xml
+E:\Sample\Services\Hangout\bin\System.Web.Optimization.xml
+E:\Sample\Services\Hangout\bin\System.Web.Razor.xml
+E:\Sample\Services\Hangout\bin\System.Web.WebPages.xml
+E:\Sample\Services\Hangout\bin\System.Web.WebPages.Deployment.xml
+E:\Sample\Services\Hangout\bin\System.Web.WebPages.Razor.xml
+E:\Sample\Services\Hangout\bin\Antlr3.Runtime.pdb
+E:\Sample\Services\Hangout\bin\EntityFramework.xml
+E:\Sample\Services\Hangout\bin\EntityFramework.SqlServer.xml
+E:\Sample\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Sample\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Sample\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.xml
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.xml
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.Google.xml
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Sample\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Sample\Services\Hangout\bin\System.Web.Http.Owin.xml
+E:\Sample\Services\Hangout\bin\Hangouts.DataAccess.pdb
+E:\Sample\Services\Hangout\obj\Debug\Hangout.API.csprojResolveAssemblyReference.cache
+E:\Sample\Services\Hangout\obj\Debug\Hangout.dll
+E:\Sample\Services\Hangout\obj\Debug\Hangout.pdb
+F:\SAVVY\Services\Services\Hangout\obj\Debug\Hangout.API.csprojResolveAssemblyReference.cache
+F:\SAVVY\Services\Services\Hangout\obj\Debug\Hangout.dll
+F:\SAVVY\Services\Services\Hangout\obj\Debug\Hangout.pdb
+F:\SAVVY\Services\Services\Hangout\bin\ApplicationInsights.config
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\csc.exe
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\System.Collections.Immutable.dll
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\System.Reflection.Metadata.dll
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\vbc.exe
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\VBCSCompiler.exe
+F:\SAVVY\Services\Services\Hangout\bin\roslyn\VBCSCompiler.exe.config
+F:\SAVVY\Services\Services\Hangout\bin\Hangout.dll.config
+F:\SAVVY\Services\Services\Hangout\bin\Hangout.dll
+F:\SAVVY\Services\Services\Hangout\bin\Hangout.pdb
+F:\SAVVY\Services\Services\Hangout\bin\Antlr3.Runtime.dll
+F:\SAVVY\Services\Services\Hangout\bin\EntityFramework.dll
+F:\SAVVY\Services\Services\Hangout\bin\EntityFramework.SqlServer.dll
+F:\SAVVY\Services\Services\Hangout\bin\Hangouts.Business.dll
+F:\SAVVY\Services\Services\Hangout\bin\Hangouts.Models.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.DependencyCollector.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.Web.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.WindowsServer.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.ApplicationInsights.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.Google.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Web.Infrastructure.dll
+F:\SAVVY\Services\Services\Hangout\bin\Newtonsoft.Json.dll
+F:\SAVVY\Services\Services\Hangout\bin\Owin.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Net.Http.Formatting.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Helpers.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Http.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Http.Owin.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Http.WebHost.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Mvc.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Optimization.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Razor.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.WebPages.Deployment.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.WebPages.dll
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.WebPages.Razor.dll
+F:\SAVVY\Services\Services\Hangout\bin\WebGrease.dll
+F:\SAVVY\Services\Services\Hangout\bin\Hangouts.DataAccess.dll
+F:\SAVVY\Services\Services\Hangout\bin\Hangouts.Business.pdb
+F:\SAVVY\Services\Services\Hangout\bin\Hangouts.Models.pdb
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.DependencyCollector.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.Web.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AI.WindowsServer.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.ApplicationInsights.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SAVVY\Services\Services\Hangout\bin\Newtonsoft.Json.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Net.Http.Formatting.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Helpers.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Http.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Http.WebHost.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Mvc.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Optimization.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Razor.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.WebPages.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.WebPages.Deployment.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.WebPages.Razor.xml
+F:\SAVVY\Services\Services\Hangout\bin\Antlr3.Runtime.pdb
+F:\SAVVY\Services\Services\Hangout\bin\EntityFramework.xml
+F:\SAVVY\Services\Services\Hangout\bin\EntityFramework.SqlServer.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.Google.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SAVVY\Services\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SAVVY\Services\Services\Hangout\bin\System.Web.Http.Owin.xml
+F:\SAVVY\Services\Services\Hangout\bin\Hangouts.DataAccess.pdb
+E:\Sample\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.dll
+E:\Sample\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\ApplicationInsights.config
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\csc.exe
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\vbc.exe
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\VBCSCompiler.exe
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Hangout.dll.config
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Hangout.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Hangout.pdb
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Antlr3.Runtime.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\EntityFramework.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\EntityFramework.SqlServer.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Hangouts.Business.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Hangouts.Models.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.Web.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Newtonsoft.Json.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Owin.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Net.Http.Formatting.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Helpers.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Http.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Http.Owin.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Http.WebHost.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Mvc.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Optimization.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Razor.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.WebPages.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.WebPages.Razor.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\WebGrease.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Hangouts.DataAccess.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Hangouts.Business.pdb
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Hangouts.Models.pdb
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.Web.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Newtonsoft.Json.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Net.Http.Formatting.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Helpers.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Http.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Http.WebHost.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Mvc.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Optimization.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Razor.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.WebPages.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.WebPages.Razor.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Antlr3.Runtime.pdb
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\EntityFramework.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\EntityFramework.SqlServer.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\System.Web.Http.Owin.xml
+C:\Users\Savvy IT\Desktop\Services\Hangout\bin\Hangouts.DataAccess.pdb
+C:\Users\Savvy IT\Desktop\Services\Hangout\obj\Debug\Hangout.API.csprojResolveAssemblyReference.cache
+C:\Users\Savvy IT\Desktop\Services\Hangout\obj\Debug\Hangout.dll
+C:\Users\Savvy IT\Desktop\Services\Hangout\obj\Debug\Hangout.pdb
+E:\Github\Services\Hangout\bin\ApplicationInsights.config
+E:\Github\Services\Hangout\bin\roslyn\csc.exe
+E:\Github\Services\Hangout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Github\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Github\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Github\Services\Hangout\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Github\Services\Hangout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Github\Services\Hangout\bin\roslyn\System.Collections.Immutable.dll
+E:\Github\Services\Hangout\bin\roslyn\System.Reflection.Metadata.dll
+E:\Github\Services\Hangout\bin\roslyn\vbc.exe
+E:\Github\Services\Hangout\bin\roslyn\VBCSCompiler.exe
+E:\Github\Services\Hangout\bin\roslyn\VBCSCompiler.exe.config
+E:\Github\Services\Hangout\bin\Hangout.dll.config
+E:\Github\Services\Hangout\bin\Hangout.dll
+E:\Github\Services\Hangout\bin\Hangout.pdb
+E:\Github\Services\Hangout\bin\Antlr3.Runtime.dll
+E:\Github\Services\Hangout\bin\EntityFramework.dll
+E:\Github\Services\Hangout\bin\EntityFramework.SqlServer.dll
+E:\Github\Services\Hangout\bin\Hangouts.Business.dll
+E:\Github\Services\Hangout\bin\Hangouts.Models.dll
+E:\Github\Services\Hangout\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Github\Services\Hangout\bin\Microsoft.AI.DependencyCollector.dll
+E:\Github\Services\Hangout\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Github\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Github\Services\Hangout\bin\Microsoft.AI.Web.dll
+E:\Github\Services\Hangout\bin\Microsoft.AI.WindowsServer.dll
+E:\Github\Services\Hangout\bin\Microsoft.ApplicationInsights.dll
+E:\Github\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.dll
+E:\Github\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Github\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Github\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Github\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Github\Services\Hangout\bin\Microsoft.Owin.dll
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.dll
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.Google.dll
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Github\Services\Hangout\bin\Microsoft.Web.Infrastructure.dll
+E:\Github\Services\Hangout\bin\Newtonsoft.Json.dll
+E:\Github\Services\Hangout\bin\Owin.dll
+E:\Github\Services\Hangout\bin\SendGrid.dll
+E:\Github\Services\Hangout\bin\System.Net.Http.Formatting.dll
+E:\Github\Services\Hangout\bin\System.Web.Helpers.dll
+E:\Github\Services\Hangout\bin\System.Web.Http.dll
+E:\Github\Services\Hangout\bin\System.Web.Http.Owin.dll
+E:\Github\Services\Hangout\bin\System.Web.Http.WebHost.dll
+E:\Github\Services\Hangout\bin\System.Web.Mvc.dll
+E:\Github\Services\Hangout\bin\System.Web.Optimization.dll
+E:\Github\Services\Hangout\bin\System.Web.Razor.dll
+E:\Github\Services\Hangout\bin\System.Web.WebPages.Deployment.dll
+E:\Github\Services\Hangout\bin\System.Web.WebPages.dll
+E:\Github\Services\Hangout\bin\System.Web.WebPages.Razor.dll
+E:\Github\Services\Hangout\bin\WebGrease.dll
+E:\Github\Services\Hangout\bin\Hangouts.DataAccess.dll
+E:\Github\Services\Hangout\bin\Hangouts.Business.pdb
+E:\Github\Services\Hangout\bin\Hangouts.Models.pdb
+E:\Github\Services\Hangout\bin\Microsoft.AI.DependencyCollector.xml
+E:\Github\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Github\Services\Hangout\bin\Microsoft.AI.Web.xml
+E:\Github\Services\Hangout\bin\Microsoft.AI.WindowsServer.xml
+E:\Github\Services\Hangout\bin\Microsoft.ApplicationInsights.xml
+E:\Github\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.xml
+E:\Github\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Github\Services\Hangout\bin\Newtonsoft.Json.xml
+E:\Github\Services\Hangout\bin\SendGrid.pdb
+E:\Github\Services\Hangout\bin\SendGrid.xml
+E:\Github\Services\Hangout\bin\System.Net.Http.Formatting.xml
+E:\Github\Services\Hangout\bin\System.Web.Helpers.xml
+E:\Github\Services\Hangout\bin\System.Web.Http.xml
+E:\Github\Services\Hangout\bin\System.Web.Http.WebHost.xml
+E:\Github\Services\Hangout\bin\System.Web.Mvc.xml
+E:\Github\Services\Hangout\bin\System.Web.Optimization.xml
+E:\Github\Services\Hangout\bin\System.Web.Razor.xml
+E:\Github\Services\Hangout\bin\System.Web.WebPages.xml
+E:\Github\Services\Hangout\bin\System.Web.WebPages.Deployment.xml
+E:\Github\Services\Hangout\bin\System.Web.WebPages.Razor.xml
+E:\Github\Services\Hangout\bin\Antlr3.Runtime.pdb
+E:\Github\Services\Hangout\bin\EntityFramework.xml
+E:\Github\Services\Hangout\bin\EntityFramework.SqlServer.xml
+E:\Github\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Github\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Github\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Github\Services\Hangout\bin\Microsoft.Owin.xml
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.xml
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.Google.xml
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Github\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Github\Services\Hangout\bin\System.Web.Http.Owin.xml
+E:\Github\Services\Hangout\bin\Hangouts.DataAccess.pdb
+E:\Github\Services\Hangout\bin\Hangouts.DataAccess.dll.config
+E:\Github\Services\Hangout\obj\Debug\Hangout.API.csprojResolveAssemblyReference.cache
+E:\Github\Services\Hangout\obj\Debug\Hangout.dll
+E:\Github\Services\Hangout\obj\Debug\Hangout.pdb
+C:\GIT\Services\Hangout\bin\ApplicationInsights.config
+C:\GIT\Services\Hangout\bin\roslyn\csc.exe
+C:\GIT\Services\Hangout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GIT\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GIT\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GIT\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GIT\Services\Hangout\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GIT\Services\Hangout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GIT\Services\Hangout\bin\roslyn\System.Collections.Immutable.dll
+C:\GIT\Services\Hangout\bin\roslyn\System.Reflection.Metadata.dll
+C:\GIT\Services\Hangout\bin\roslyn\vbc.exe
+C:\GIT\Services\Hangout\bin\roslyn\VBCSCompiler.exe
+C:\GIT\Services\Hangout\bin\roslyn\VBCSCompiler.exe.config
+C:\GIT\Services\Hangout\bin\Hangout.dll.config
+C:\GIT\Services\Hangout\bin\Hangout.dll
+C:\GIT\Services\Hangout\bin\Hangout.pdb
+C:\GIT\Services\Hangout\bin\Antlr3.Runtime.dll
+C:\GIT\Services\Hangout\bin\EntityFramework.dll
+C:\GIT\Services\Hangout\bin\EntityFramework.SqlServer.dll
+C:\GIT\Services\Hangout\bin\Hangouts.Business.dll
+C:\GIT\Services\Hangout\bin\Hangouts.Models.dll
+C:\GIT\Services\Hangout\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GIT\Services\Hangout\bin\Microsoft.AI.DependencyCollector.dll
+C:\GIT\Services\Hangout\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GIT\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GIT\Services\Hangout\bin\Microsoft.AI.Web.dll
+C:\GIT\Services\Hangout\bin\Microsoft.AI.WindowsServer.dll
+C:\GIT\Services\Hangout\bin\Microsoft.ApplicationInsights.dll
+C:\GIT\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\GIT\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GIT\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GIT\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GIT\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.Google.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GIT\Services\Hangout\bin\Microsoft.Web.Infrastructure.dll
+C:\GIT\Services\Hangout\bin\Newtonsoft.Json.dll
+C:\GIT\Services\Hangout\bin\Owin.dll
+C:\GIT\Services\Hangout\bin\SendGrid.dll
+C:\GIT\Services\Hangout\bin\System.Net.Http.Formatting.dll
+C:\GIT\Services\Hangout\bin\System.Web.Helpers.dll
+C:\GIT\Services\Hangout\bin\System.Web.Http.dll
+C:\GIT\Services\Hangout\bin\System.Web.Http.Owin.dll
+C:\GIT\Services\Hangout\bin\System.Web.Http.WebHost.dll
+C:\GIT\Services\Hangout\bin\System.Web.Mvc.dll
+C:\GIT\Services\Hangout\bin\System.Web.Optimization.dll
+C:\GIT\Services\Hangout\bin\System.Web.Razor.dll
+C:\GIT\Services\Hangout\bin\System.Web.WebPages.Deployment.dll
+C:\GIT\Services\Hangout\bin\System.Web.WebPages.dll
+C:\GIT\Services\Hangout\bin\System.Web.WebPages.Razor.dll
+C:\GIT\Services\Hangout\bin\WebGrease.dll
+C:\GIT\Services\Hangout\bin\Hangouts.DataAccess.dll
+C:\GIT\Services\Hangout\bin\Hangouts.Business.pdb
+C:\GIT\Services\Hangout\bin\Hangouts.Models.pdb
+C:\GIT\Services\Hangout\bin\Microsoft.AI.DependencyCollector.xml
+C:\GIT\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GIT\Services\Hangout\bin\Microsoft.AI.Web.xml
+C:\GIT\Services\Hangout\bin\Microsoft.AI.WindowsServer.xml
+C:\GIT\Services\Hangout\bin\Microsoft.ApplicationInsights.xml
+C:\GIT\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.xml
+C:\GIT\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GIT\Services\Hangout\bin\Newtonsoft.Json.xml
+C:\GIT\Services\Hangout\bin\SendGrid.pdb
+C:\GIT\Services\Hangout\bin\SendGrid.xml
+C:\GIT\Services\Hangout\bin\System.Net.Http.Formatting.xml
+C:\GIT\Services\Hangout\bin\System.Web.Helpers.xml
+C:\GIT\Services\Hangout\bin\System.Web.Http.xml
+C:\GIT\Services\Hangout\bin\System.Web.Http.WebHost.xml
+C:\GIT\Services\Hangout\bin\System.Web.Mvc.xml
+C:\GIT\Services\Hangout\bin\System.Web.Optimization.xml
+C:\GIT\Services\Hangout\bin\System.Web.Razor.xml
+C:\GIT\Services\Hangout\bin\System.Web.WebPages.xml
+C:\GIT\Services\Hangout\bin\System.Web.WebPages.Deployment.xml
+C:\GIT\Services\Hangout\bin\System.Web.WebPages.Razor.xml
+C:\GIT\Services\Hangout\bin\Antlr3.Runtime.pdb
+C:\GIT\Services\Hangout\bin\EntityFramework.xml
+C:\GIT\Services\Hangout\bin\EntityFramework.SqlServer.xml
+C:\GIT\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GIT\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GIT\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.xml
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.xml
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.Google.xml
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GIT\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GIT\Services\Hangout\bin\System.Web.Http.Owin.xml
+C:\GIT\Services\Hangout\bin\Hangouts.DataAccess.pdb
+C:\GIT\Services\Hangout\bin\Hangouts.DataAccess.dll.config
+C:\GIT\Services\Hangout\obj\Debug\Hangout.API.csprojResolveAssemblyReference.cache
+C:\GIT\Services\Hangout\obj\Debug\Hangout.dll
+C:\GIT\Services\Hangout\obj\Debug\Hangout.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\obj\Debug\Hangout.API.csprojResolveAssemblyReference.cache
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\obj\Debug\Hangout.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\obj\Debug\Hangout.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\ApplicationInsights.config
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\csc.exe
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\vbc.exe
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\VBCSCompiler.exe
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangout.dll.config
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangout.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangout.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Antlr3.Runtime.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\EntityFramework.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\EntityFramework.SqlServer.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangouts.Business.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangouts.Models.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.Web.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Newtonsoft.Json.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Owin.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\SendGrid.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Net.Http.Formatting.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Helpers.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Http.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Http.Owin.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Http.WebHost.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Mvc.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Optimization.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Razor.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.WebPages.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.WebPages.Razor.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\WebGrease.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangouts.DataAccess.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangouts.Business.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangouts.Models.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.Web.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.ApplicationInsights.TraceListener.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Newtonsoft.Json.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\SendGrid.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\SendGrid.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Net.Http.Formatting.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Helpers.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Http.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Http.WebHost.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Mvc.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Optimization.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Razor.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.WebPages.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.WebPages.Razor.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Antlr3.Runtime.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\EntityFramework.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\EntityFramework.SqlServer.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\System.Web.Http.Owin.xml
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangouts.DataAccess.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangout\bin\Hangouts.DataAccess.dll.config
+C:\GIT\Services\Hangout\bin\NLog.config
+C:\GIT\Services\Hangout\bin\NLog.dll
+C:\GIT\Services\Hangout\bin\NLog.xml

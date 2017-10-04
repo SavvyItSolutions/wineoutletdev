@@ -1,0 +1,71 @@
+E:\Sample\WineHangoutz\Services\Hangouts.Business\bin\Debug\Hangouts.Business.dll
+E:\Sample\WineHangoutz\Services\Hangouts.Business\bin\Debug\Hangouts.Business.pdb
+E:\Sample\WineHangoutz\Services\Hangouts.Business\obj\Debug\Hangout.Business.csprojResolveAssemblyReference.cache
+E:\Sample\WineHangoutz\Services\Hangouts.Business\obj\Debug\Hangouts.Business.dll
+E:\Sample\WineHangoutz\Services\Hangouts.Business\obj\Debug\Hangouts.Business.pdb
+F:\SAVVY\Services\Hangouts.Business\bin\Debug\Hangouts.Business.dll
+F:\SAVVY\Services\Hangouts.Business\bin\Debug\Hangouts.Business.pdb
+F:\SAVVY\Services\Hangouts.Business\obj\Debug\Hangout.Business.csprojResolveAssemblyReference.cache
+F:\SAVVY\Services\Hangouts.Business\obj\Debug\Hangouts.Business.dll
+F:\SAVVY\Services\Hangouts.Business\obj\Debug\Hangouts.Business.pdb
+F:\SAVVY\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll
+F:\SAVVY\Services\Hangouts.Business\bin\Debug\Hangouts.Models.dll
+F:\SAVVY\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.pdb
+F:\SAVVY\Services\Hangouts.Business\bin\Debug\Hangouts.Models.pdb
+E:\Sample\Services\Hangouts.Business\bin\Debug\Hangouts.Business.dll
+E:\Sample\Services\Hangouts.Business\bin\Debug\Hangouts.Business.pdb
+E:\Sample\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll
+E:\Sample\Services\Hangouts.Business\bin\Debug\Hangouts.Models.dll
+E:\Sample\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.pdb
+E:\Sample\Services\Hangouts.Business\bin\Debug\Hangouts.Models.pdb
+E:\Sample\Services\Hangouts.Business\obj\Debug\Hangout.Business.csprojResolveAssemblyReference.cache
+E:\Sample\Services\Hangouts.Business\obj\Debug\Hangouts.Business.dll
+E:\Sample\Services\Hangouts.Business\obj\Debug\Hangouts.Business.pdb
+F:\SAVVY\Services\Services\Hangouts.Business\obj\Debug\Hangout.Business.csprojResolveAssemblyReference.cache
+F:\SAVVY\Services\Services\Hangouts.Business\obj\Debug\Hangouts.Business.dll
+F:\SAVVY\Services\Services\Hangouts.Business\obj\Debug\Hangouts.Business.pdb
+F:\SAVVY\Services\Services\Hangouts.Business\bin\Debug\Hangouts.Business.dll
+F:\SAVVY\Services\Services\Hangouts.Business\bin\Debug\Hangouts.Business.pdb
+F:\SAVVY\Services\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll
+F:\SAVVY\Services\Services\Hangouts.Business\bin\Debug\Hangouts.Models.dll
+F:\SAVVY\Services\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.pdb
+F:\SAVVY\Services\Services\Hangouts.Business\bin\Debug\Hangouts.Models.pdb
+C:\Users\Savvy IT\Desktop\Services\Hangouts.Business\bin\Debug\Hangouts.Business.dll
+C:\Users\Savvy IT\Desktop\Services\Hangouts.Business\bin\Debug\Hangouts.Business.pdb
+C:\Users\Savvy IT\Desktop\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll
+C:\Users\Savvy IT\Desktop\Services\Hangouts.Business\bin\Debug\Hangouts.Models.dll
+C:\Users\Savvy IT\Desktop\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.pdb
+C:\Users\Savvy IT\Desktop\Services\Hangouts.Business\bin\Debug\Hangouts.Models.pdb
+C:\Users\Savvy IT\Desktop\Services\Hangouts.Business\obj\Debug\Hangout.Business.csprojResolveAssemblyReference.cache
+C:\Users\Savvy IT\Desktop\Services\Hangouts.Business\obj\Debug\Hangouts.Business.dll
+C:\Users\Savvy IT\Desktop\Services\Hangouts.Business\obj\Debug\Hangouts.Business.pdb
+E:\Github\Services\Hangouts.Business\bin\Debug\Hangouts.Business.dll
+E:\Github\Services\Hangouts.Business\bin\Debug\Hangouts.Business.pdb
+E:\Github\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll
+E:\Github\Services\Hangouts.Business\bin\Debug\Hangouts.Models.dll
+E:\Github\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.pdb
+E:\Github\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll.config
+E:\Github\Services\Hangouts.Business\bin\Debug\Hangouts.Models.pdb
+E:\Github\Services\Hangouts.Business\obj\Debug\Hangout.Business.csprojResolveAssemblyReference.cache
+E:\Github\Services\Hangouts.Business\obj\Debug\Hangouts.Business.dll
+E:\Github\Services\Hangouts.Business\obj\Debug\Hangouts.Business.pdb
+C:\GIT\Services\Hangouts.Business\bin\Debug\Hangouts.Business.dll
+C:\GIT\Services\Hangouts.Business\bin\Debug\Hangouts.Business.pdb
+C:\GIT\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll
+C:\GIT\Services\Hangouts.Business\bin\Debug\Hangouts.Models.dll
+C:\GIT\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.pdb
+C:\GIT\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll.config
+C:\GIT\Services\Hangouts.Business\bin\Debug\Hangouts.Models.pdb
+C:\GIT\Services\Hangouts.Business\obj\Debug\Hangout.Business.csprojResolveAssemblyReference.cache
+C:\GIT\Services\Hangouts.Business\obj\Debug\Hangouts.Business.dll
+C:\GIT\Services\Hangouts.Business\obj\Debug\Hangouts.Business.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\obj\Debug\Hangout.Business.csprojResolveAssemblyReference.cache
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\obj\Debug\Hangouts.Business.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\obj\Debug\Hangouts.Business.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\bin\Debug\Hangouts.Business.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\bin\Debug\Hangouts.Business.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\bin\Debug\Hangouts.Models.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\bin\Debug\Hangouts.DataAccess.dll.config
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Business\bin\Debug\Hangouts.Models.pdb

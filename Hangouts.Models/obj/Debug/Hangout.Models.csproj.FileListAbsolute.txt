@@ -1,0 +1,36 @@
+C:\Workspace\Hangout\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+C:\Workspace\Hangout\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+C:\Workspace\Hangout\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+C:\Workspace\Hangout\Hangouts.Models\obj\Debug\Hangouts.Models.pdb
+E:\Sample\WineHangoutz\Services\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+E:\Sample\WineHangoutz\Services\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+E:\Sample\WineHangoutz\Services\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+E:\Sample\WineHangoutz\Services\Hangouts.Models\obj\Debug\Hangouts.Models.pdb
+F:\SAVVY\Services\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+F:\SAVVY\Services\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+F:\SAVVY\Services\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+F:\SAVVY\Services\Hangouts.Models\obj\Debug\Hangouts.Models.pdb
+E:\Sample\Services\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+E:\Sample\Services\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+E:\Sample\Services\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+E:\Sample\Services\Hangouts.Models\obj\Debug\Hangouts.Models.pdb
+F:\SAVVY\Services\Services\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+F:\SAVVY\Services\Services\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+F:\SAVVY\Services\Services\Hangouts.Models\obj\Debug\Hangout.Models.csprojResolveAssemblyReference.cache
+F:\SAVVY\Services\Services\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+F:\SAVVY\Services\Services\Hangouts.Models\obj\Debug\Hangouts.Models.pdb
+E:\Github\Services\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+E:\Github\Services\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+E:\Github\Services\Hangouts.Models\obj\Debug\Hangout.Models.csprojResolveAssemblyReference.cache
+E:\Github\Services\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+E:\Github\Services\Hangouts.Models\obj\Debug\Hangouts.Models.pdb
+C:\GIT\Services\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+C:\GIT\Services\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+C:\GIT\Services\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+C:\GIT\Services\Hangouts.Models\obj\Debug\Hangouts.Models.pdb
+C:\GIT\Services\Hangouts.Models\obj\Debug\Hangout.Models.csprojResolveAssemblyReference.cache
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Models\obj\Debug\Hangout.Models.csprojResolveAssemblyReference.cache
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Models\obj\Debug\Hangouts.Models.pdb

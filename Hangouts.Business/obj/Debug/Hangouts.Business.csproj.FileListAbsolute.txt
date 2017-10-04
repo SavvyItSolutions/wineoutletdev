@@ -1,0 +1,4 @@
+C:\Workspace\Hangout\Hangouts.Business\bin\Debug\Hangouts.Business.dll
+C:\Workspace\Hangout\Hangouts.Business\bin\Debug\Hangouts.Business.pdb
+C:\Workspace\Hangout\Hangouts.Business\obj\Debug\Hangouts.Business.dll
+C:\Workspace\Hangout\Hangouts.Business\obj\Debug\Hangouts.Business.pdb

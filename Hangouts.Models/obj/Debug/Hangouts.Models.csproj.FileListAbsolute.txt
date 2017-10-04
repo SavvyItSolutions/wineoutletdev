@@ -1,0 +1,4 @@
+C:\Workspace\Hangout\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+C:\Workspace\Hangout\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+C:\Workspace\Hangout\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+C:\Workspace\Hangout\Hangouts.Models\obj\Debug\Hangouts.Models.pdb
