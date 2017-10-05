@@ -15,7 +15,11 @@ namespace Hangouts.Business
             IItemDBManager itemDBManager = new ItemDBManager();
             return (itemDBManager.InsertUpdateSKULike(skuLike));
         }
-
+        public int CheckConnection(int ID)
+        {
+            IItemDBManager itemDBManager = new ItemDBManager();
+            return (itemDBManager.CheckConnection(ID));
+        }
         public CustomerResponse AuthenticateUser(string CardNumber, string Email,string DeviceToken)
         {
             CustomerResponse respObj = new CustomerResponse();

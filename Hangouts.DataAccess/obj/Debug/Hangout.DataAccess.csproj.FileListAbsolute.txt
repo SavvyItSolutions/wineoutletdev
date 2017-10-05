@@ -61,3 +61,11 @@ C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.DataAccess\bin\Debug\Hangou
 C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.DataAccess\obj\Debug\Hangout.DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.DataAccess\obj\Debug\Hangouts.DataAccess.dll
 C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.DataAccess\obj\Debug\Hangouts.DataAccess.pdb
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.DataAccess\bin\Debug\Hangouts.DataAccess.dll.config
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.DataAccess\bin\Debug\Hangouts.DataAccess.dll
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.DataAccess\bin\Debug\Hangouts.DataAccess.pdb
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.DataAccess\bin\Debug\Hangouts.Models.dll
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.DataAccess\bin\Debug\Hangouts.Models.pdb
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.DataAccess\obj\Debug\Hangout.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.DataAccess\obj\Debug\Hangouts.DataAccess.dll
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.DataAccess\obj\Debug\Hangouts.DataAccess.pdb

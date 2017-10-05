@@ -14,6 +14,7 @@ namespace Hangouts.DataAccess
         
         
         int InsertUpdateSKULike(SKULike skuLike);
+        int CheckConnection(int  ID);
         IList<AuthenticateUsersResult> AuthenticateUser(string CardNumber, string Email, string DeviceId);
         int InsertUpdateReview(Review review);
         int DeleteReview(string BarCode, int reviewUserId);

@@ -10,6 +10,7 @@ namespace Hangouts.Business
     public interface IItemService
     {
         int InsertUpdateSKULike(SKULike skuLike);
+        int CheckConnection(int ID);
         CustomerResponse AuthenticateUser(string CardNumber, string Email,string DeviceId);
         int InsertUpdateReview(Review review);
         int DeleteReview(string BarCode, int reviewUserId);

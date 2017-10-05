@@ -34,3 +34,8 @@ C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Models\bin\Debug\Hangouts.M
 C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Models\obj\Debug\Hangout.Models.csprojResolveAssemblyReference.cache
 C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Models\obj\Debug\Hangouts.Models.dll
 C:\Users\Savvy IT\Documents\GitHub\Services\Hangouts.Models\obj\Debug\Hangouts.Models.pdb
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.Models\bin\Debug\Hangouts.Models.dll
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.Models\bin\Debug\Hangouts.Models.pdb
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.Models\obj\Debug\Hangout.Models.csprojResolveAssemblyReference.cache
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.Models\obj\Debug\Hangouts.Models.dll
+C:\Users\Savvy IT\Documents\GitHub\wineoutletdev\Hangouts.Models\obj\Debug\Hangouts.Models.pdb

@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 using Hangout.Models;
 using System.Configuration;
 using System.Data.Linq;
+using System.Data.SqlClient;
 
 namespace Hangouts.DataAccess
 {
     public class ItemDBManager : IItemDBManager
     {
         public HangoutsDBDataContext DBContext;
+        //string connection = System.Configuration.ConfigurationManager.ConnectionStrings["DBCON"].ConnectionString;
 
         public ItemDBManager()
         {
@@ -31,6 +33,45 @@ namespace Hangouts.DataAccess
             {
                 return 0;
             }
+        }
+        public int CheckConnection(int ID)
+        {
+            try
+            {
+                string Name = null; ;
+                if (ID == 1)
+                {
+                    Name = "PPDBCON";
+
+                }
+                else if (ID == 2)
+                {
+                    Name = "WALLDBCON"; ;
+
+                }
+                else if (ID == 3)
+                {
+                    Name = "SECDBCON";
+                }
+                else if (ID == 4)
+                {
+                    Name = "ENODBCON";
+                }
+
+                string constr = ConfigurationManager.ConnectionStrings[Name].ConnectionString;
+                SqlConnection con1 = new SqlConnection(constr);
+                con1.Open();
+                con1.Close();
+                return 1;
+            }
+            catch(Exception ex )
+            {
+
+                return 500;
+            }
+          
+
+
         }
 
         public IList<AuthenticateUsersResult> AuthenticateUser(string CardNumber, string Email, string DeviceId)

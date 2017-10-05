@@ -40,6 +40,18 @@ namespace Hangout.Controllers
             Trace.TraceInformation("Time taken to InsertUpdateLike like =" + tm);
             return resp;
         }
+        [HttpGet]
+        public int CheckConnection(int objectId)
+        {
+            DateTime start = DateTime.Now;
+            Trace.TraceInformation("Started service InsertUpdateLike");
+            IItemService itemService = new ItemService();
+            int resp = itemService.CheckConnection(objectId);
+            DateTime end = DateTime.Now;
+            TimeSpan tm = end - start;
+            Trace.TraceInformation("Time taken to InsertUpdateLike like =" + tm);
+            return resp;
+        }
 
         [Authorize]
         [HttpPost]
